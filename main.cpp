@@ -1,12 +1,17 @@
-#include <iostream>
-#include <cmath>
-#include <cstdlib>
-#include <ctime>
+#include "baie.hpp"
+#include "pile.hpp"
+#include "conteneur.hpp"
+
+
+
+
+
+
 
 using namespace std;
 
 int main() 
 {
-    cout << "Hello World!" << endl;
+    
     return 0;
 }
